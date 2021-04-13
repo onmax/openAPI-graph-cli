@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "commander": "^7.2.0",
-    "openapi-graph-core": "file:../openapi-graph-core",
-    "openapi-graph-types": "file:../openapi-graph-types"
+    "openapi-graph-core": "1.1.0",
+    "openapi-graph-types": "1.0.0"
   }
 }
