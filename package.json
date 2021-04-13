@@ -1,6 +1,6 @@
 {
   "name": "openapi-graph-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A cli to manage analyze API projects defined by OpenAPIv3 specification.",
   "main": "./lib/index.js",
   "bin": {
